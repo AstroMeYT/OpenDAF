@@ -8,7 +8,7 @@ compatible to run DAF.
 
 When started, just click the + button to add a package. The first prompt is
 the package name, and the second prompt is for the DEB file URL. Once all
-desired packages are listed, click Export. It will generate TXT files ib the
+desired packages are listed, click Export. It will generate TXT files in the
 DAF format to put in a repository. DO NOT RENAME OR CHANGE THESE FILES WHEN
 UPLOADING TO THE REPOSITORY, as they will stop working when changed.
 
